@@ -1,2 +1,10 @@
-# githubprofilefinder
-Allows you to find github user's profiles and repos by searching for their usernames
+# Github Finder
+
+Searches Github.com user profiles and displays profile info and the latest repositories
+
+### Version
+1.0.0
+
+## Usage
+
+Open index.html
